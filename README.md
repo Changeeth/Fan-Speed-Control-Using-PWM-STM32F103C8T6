@@ -8,7 +8,6 @@ This project demonstrates how to control the speed of a DC fan and the brightnes
 
 - **`/src`** → main project source code (`main.ino` or `main.cpp`)  
 - **`/lib`** → additional libraries (e.g., `LiquidCrystal`)  
-- **`/docs`** → circuit diagrams and wiring notes  
 - **`/images`** → circuit diagram and hardware setup photos  
 
 ---
